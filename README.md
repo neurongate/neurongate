@@ -92,6 +92,7 @@ No subscriptions. No minimums. Pay for what you use.
 | 📖 API Documentation | [neurongate/docs](https://github.com/neurongate/docs) |
 | 💻 Code Examples | [neurongate/examples](https://github.com/neurongate/examples) |
 | 🌐 Website | [neurongate.net](https://neurongate.net) |
+| 🐦 Twitter / X | [@NeuronGateAI](https://x.com/NeuronGateAI) |
 | 🔑 Get API Key | [neurongate.net/keys](https://neurongate.net/keys) |
 
 ## 🔒 Security
