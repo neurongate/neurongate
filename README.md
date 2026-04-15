@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="NeuronGate" width="100%"/>
+
 # NeuronGate
 
 ### One API. Every Model. Pay with Crypto.
